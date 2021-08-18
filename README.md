@@ -2,6 +2,7 @@
 
 
 
+<a> <img style="position: fixed;right:0;top:0" height ='185px' src ='https://raw.githubusercontent.com/prim4t/sigma-essentials/main/sigma.gif'> </a> 
 
 
 <a> <img height ='185px' src ='https://raw.githubusercontent.com/prim4t/sigma-essentials/main/sigma.gif'> </a> 
