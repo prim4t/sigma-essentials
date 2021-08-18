@@ -1,6 +1,6 @@
 
+[![SIGMA](https://raw.githubusercontent.com/prim4t/sigma-essentials/main/sigma2.gif)](https://prim4t.github.io/sigma-essentials) 
 
-<a> <img height ='185px' src ='https://raw.githubusercontent.com/prim4t/sigma-essentials/main/sigma.gif'> </a> 
 
 # Everything you need to #UPYOURGRIND!
 
