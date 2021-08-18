@@ -1,5 +1,55 @@
 
+<center>
+
+
+
+
+<a> <img height ='185px' src ='https://raw.githubusercontent.com/prim4t/sigma-essentials/main/sigma.gif'> </a> 
+
+# Everything you need to #UPYOURGRIND!
+
+### [Trading/Crypto 📈](#example) | [Fashion 😎](#section) | [Investment 💰](#third-example) | [Entertainment 🍿](#Register-Domain)
+### [Fitness 📈](#example) | [Coding 😎](#section) | [Social 💰](#third-example) | [Entertainment 🍿](#Register-Domain)
+
+
+# Trading/Crypto 
+
+| Chalk | TeXt | Anatole |
+| --- |  --- | --- |
+| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
+
+
+
+
+
+
+
+
+
+
+# For the #chillgrind
+[Sigma Movies 🍿](#example) | [Sigma Games](#section) | [Third Example](#third-example) | [Fourth Example](#Register-Domain)
+
+# 🍿 Sigma  Movies 🍿 
+
+| Chalk | TeXt | Anatole |
+| --- |  --- | --- |
+| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a > <img width ='100%'  height ='10px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+<a name="section"></a>
 #   Website Setup Essentials
 #####  Everything you need to start your minimal, fast and secure Blog
 
@@ -53,3 +103,5 @@ Feel free [contribute!](https://github.com/prim4t/Web-Setup-Essentials)
 
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/prim4tdotart)
 [![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
+
+
