@@ -5,7 +5,7 @@
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
 <a name="home"></a>
-##### | [ 📈 Trading/Crypto/Finance 📈](#trading) | [😎 Fashion 😎](#fashion) | [🍿 Entertainment 🍿](#entertainment) | [🖮 Coding 🖮](#coding) | [🌐 Social/Networking 🌐](#social) |
+#####  [ 📈 Trading/Crypto/Finance 📈](#trading) | [😎 Fashion 😎](#fashion) | [🍿 Entertainment 🍿](#entertainment) | [🖮 Coding 🖮](#coding) | [🌐 Social/Networking 🌐](#social) 
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
