@@ -5,37 +5,40 @@
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
 <a name="home"></a>
-##### Menu: [Trading/Crypto/Finance 📈](#trading) | [Fashion 😎](#fashion) | [Entertainment 🍿](#entertainment) | [Coding 🖮](#coding) | [Social/Networking 🌐](#social) 
+##### Menu: [ 📈 Trading/Crypto/Finance 📈](#trading) | [😎 Fashion 😎](#fashion) | [🍿 Entertainment 🍿](#entertainment) | [🖮 Coding 🖮](#coding) | [🌐 Social/Networking 🌐](#social) 
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
 
 
 <a name="trading"></a>
-# Trading/Crypto/Finance 📈
+#  📈 Trading/Crypto/Finance 📈
 
-### ₿est trading platforms:
+### Stay informed about Crypto: [Etoro](https://etoro.tw/3y1cWtA) | [Robinhood](#section) | [Binance](https://accounts.binance.com/en/register?ref=122687436) | [Coinbase ](https://www.coinbase.com/join/prim4t_i)
 
-### [Etoro](https://etoro.tw/3y1cWtA) | [Robinhood](#section) | [Binance](https://accounts.binance.com/en/register?ref=122687436) | [Coinbase ](https://www.coinbase.com/join/prim4t_i)
+### ₿est trading platforms: [Binance](https://accounts.binance.com/en/register?ref=122687436) | [Coinbase ](https://www.coinbase.com/join/prim4t_i) |  [Etoro](https://etoro.tw/3y1cWtA) 
 
-#wallstreetbets #crypto #tothemoon
 
-### Trade NFTs 🖼️
+### Trade NFTs 🖼️: [OpenSEA](https://opensea.io?ref=0xd39D5362929DA4E3148dc8a44652094B6c1439bd) | [Rariable](https://rarible.com/) | [niftygateway](https://niftygateway.com/marketplace) | [beeple](https://niftygateway.com/marketplace) | [Cryptopunks](https://opensea.io/collection/cryptopunks?ref=0xd39D5362929DA4E3148dc8a44652094B6c1439bd) | [Cryptokitties](https://opensea.io/assets/cryptokitties?ref=0xd39D5362929DA4E3148dc8a44652094B6c1439bd) 
 
-### [OpenSEA](https://opensea.io?ref=0xd39D5362929DA4E3148dc8a44652094B6c1439bd) | [Rariable](https://rarible.com/) | [niftygateway](#third-example) 
-
-#cryptopunks #cryptokitties #nft #beeple
+### Get Crypto for Bloging: [publish0x](https://www.publish0x.com/?a=YRdGv617bD) 
 
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 <a name="fashion"></a>
 # Fashion/Accessoires for Sigmas
-to show your superiority
+
 
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 <a name="coding"></a>
 # Coding
+
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
+<a name="social"></a>
+# Social
+
+
 
 
 
@@ -48,7 +51,7 @@ to show your superiority
 
 | Scarface | American Psycho |  Breaking Bad | The Godfather  | Baul Plart | Big Chungus | 
 | --- |  --- | --- | --- | --- |--- |
-| [![Scarface](https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg)](LINK) | [![Breaking Bad](https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR5,0,140,209_AL_.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![American Psycho](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) | [![The Godfather](https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) | [![Paul Blart](https://m.media-amazon.com/images/M/MV5BMTM2NzA1MzE1NF5BMl5BanBnXkFtZTcwOTYyNDIzMg@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) | [![Big Chungus](https://m.media-amazon.com/images/M/MV5BNTUzNjZiODItNmE5MC00YmJkLWE4MGUtODY4NDg4NjBhZDk2XkEyXkFqcGdeQXVyODE1MDMxNTc@._V1_UY209_CR2,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) |
+| [![Scarface](https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg)](https://www.imdb.com/title/tt0086250/?ref_=ttls_li_tt) | [![Breaking Bad](https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR5,0,140,209_AL_.jpg)](https://www.imdb.com/title/tt0903747/?ref_=ttls_li_tt) | [![American Psycho](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://www.imdb.com/title/tt0144084/?ref_=ttls_li_tt) | [![The Godfather](https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg)](https://www.imdb.com/title/tt0068646/?ref_=ttls_li_tt) | [![Paul Blart](https://m.media-amazon.com/images/M/MV5BMTM2NzA1MzE1NF5BMl5BanBnXkFtZTcwOTYyNDIzMg@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://www.imdb.com/title/tt1114740/?ref_=ttls_li_tt) | [![Big Chungus](https://m.media-amazon.com/images/M/MV5BNTUzNjZiODItNmE5MC00YmJkLWE4MGUtODY4NDg4NjBhZDk2XkEyXkFqcGdeQXVyODE1MDMxNTc@._V1_UY209_CR2,0,140,209_AL_.jpg)](https://www.imdb.com/title/tt11266954/?ref_=ttls_li_tt) |
 
 
 
@@ -58,40 +61,7 @@ to show your superiority
 
 
 
-
-
-
-
-
-<a name="section"></a>
-#   Website Setup Essentials
-#####  Everything you need to start your minimal, fast and secure Blog
-
-<a > <img   height ='400px' src ='https://prim4t.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1629208404359%2FY5hhs8muJ.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75'> </a> 
-
-
-
-
-
-
-
-## :envelope: Register E-Mail: **[Mailfence](https://mailfence.com)** | **[Criptext](https://criptext.com)** 
-
-## :link: Get Git: **[GitHub](https://github.com)** | **[GitLab](https://gitlab.com)**
-
-## :computer: Host your Git:  **[Netlify](https://netlify.com)** | **[Vercel](https://vercel.com)**
-
-## :globe_with_meridians: Register Domain : **[Namecheap](https://namecheap.com)** | **[UnstoppableDomains](https://unstoppabledomains.com/r/151ba14a0087436)** 
-
-## :art: Get a Theme/Template: [Hugo](https://themes.gohugo.io) | [Jekyll](https://jamstackthemes.dev/ssg/jekyll/) | [Gatsby](https://themejam.gatsbyjs.org/showcase)
-
-
-
-| Chalk | TeXt | Anatole |
-| --- |  --- | --- |
-| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
-
-
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 ## Useful Tools and links:
 
 
