@@ -1,38 +1,54 @@
+<a > <img width ='100%'  height ='20px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
 [![SIGMA](https://raw.githubusercontent.com/prim4t/sigma-essentials/main/sigma2.gif)](https://prim4t.github.io/sigma-essentials) 
 
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
-# Everything you need to #UPYOURGRIND!
+<a name="home"></a>
+##### Menu: [Trading/Crypto/Finance 📈](#trading) | [Fashion 😎](#fashion) | [Entertainment 🍿](#entertainment) | [Coding 🖮](#coding) | [Social/Networking 🌐](#social) 
 
-### [Trading/Crypto 📈](#example) | [Fashion 😎](#section) | [Investment 💰](#third-example) | [Entertainment 🍿](#Register-Domain)
-### [Fitness 📈](#example) | [Coding 😎](#section) | [Social 💰](#third-example) | [Entertainment 🍿](#Register-Domain)
-
-
-# Trading/Crypto 
-
-| Chalk | TeXt | Anatole |
-| --- |  --- | --- |
-| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
 
 
+<a name="trading"></a>
+# Trading/Crypto/Finance 📈
+
+### ₿est trading platforms:
+
+### [Etoro](https://etoro.tw/3y1cWtA) | [Robinhood](#section) | [Binance](https://accounts.binance.com/en/register?ref=122687436) | [Coinbase ](https://www.coinbase.com/join/prim4t_i)
+
+#wallstreetbets #crypto #tothemoon
+
+### Trade NFTs 🖼️
+
+### [OpenSEA](https://opensea.io?ref=0xd39D5362929DA4E3148dc8a44652094B6c1439bd) | [Rariable](https://rarible.com/) | [niftygateway](#third-example) 
+
+#cryptopunks #cryptokitties #nft #beeple
+
+
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
+<a name="fashion"></a>
+# Fashion/Accessoires for Sigmas
+to show your superiority
+
+
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
+<a name="coding"></a>
+# Coding
 
 
 
-
-
-
-
-# For the #chillgrind
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
+<a name="entertainment"></a>
+# Entertainment for the #chillgrind
 [Sigma Movies 🍿](#example) | [Sigma Games](#section) | [Third Example](#third-example) | [Fourth Example](#Register-Domain)
 
-# 🍿 Sigma  Movies 🍿 
+### 🍿 Ultimate Sigma  Movie-Collection 🍿 
 
-| Chalk | TeXt | Anatole |
-| --- |  --- | --- |
-| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
-
-
+| Scarface | American Psycho |  Breaking Bad | The Godfather  | Baul Plart | Big Chungus | 
+| --- |  --- | --- | --- | --- |--- |
+| [![Scarface](https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg)](LINK) | [![Breaking Bad](https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR5,0,140,209_AL_.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![American Psycho](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) | [![The Godfather](https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) | [![Paul Blart](https://m.media-amazon.com/images/M/MV5BMTM2NzA1MzE1NF5BMl5BanBnXkFtZTcwOTYyNDIzMg@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) | [![Big Chungus](https://m.media-amazon.com/images/M/MV5BNTUzNjZiODItNmE5MC00YmJkLWE4MGUtODY4NDg4NjBhZDk2XkEyXkFqcGdeQXVyODE1MDMxNTc@._V1_UY209_CR2,0,140,209_AL_.jpg)](https://github.com/lxndrblz/anatole) |
 
 
 
@@ -44,7 +60,9 @@
 
 
 
-<a > <img width ='100%'  height ='10px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+
+
+
 <a name="section"></a>
 #   Website Setup Essentials
 #####  Everything you need to start your minimal, fast and secure Blog
