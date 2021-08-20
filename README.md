@@ -5,7 +5,7 @@
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
 <a name="home"></a>
-##### - [ 📈 Trading/Crypto/Finance 📈](#trading) | [😎 Fashion 😎](#fashion) | [🍿 Entertainment 🍿](#entertainment) | [🖮 Coding 🖮](#coding) | [🌐 Social/Networking 🌐](#social) 
+##### - [ 📈 Trading/Crypto/Finance 📈](#trading) | [😎 Fashion 😎](#fashion) | [🖮 Coding 🖮](#coding) | [🌐 Social/Networking 🌐](#social) | [🛒 Products 🛒](#products) | [🍿 Entertainment 🍿](#entertainment)
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 
@@ -26,8 +26,13 @@
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 <a name="fashion"></a>
-# Fashion/Accessoires for Sigmas
+# Fashion/Accessoires for every style of Sigma
 
+### Druglord
+
+### Fatcat
+
+### Straight Gangsta
 
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
@@ -37,6 +42,10 @@
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 <a name="social"></a>
 # Social
+
+<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
+<a name="products"></a>
+# Products
 
 
 
