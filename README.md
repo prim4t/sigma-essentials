@@ -13,7 +13,9 @@
 
 <a name="trading"></a>
 #  📈 Trading/Crypto/Finance 📈
-###### Get into Crypto and Stocks #BetEverything
+<a > <img height ='300px' src ='https://media3.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy.gif?cid=ecf05e47jch868qzekfc90hkg8yi0r33v1hx4221hmy62i5q&rid=giphy.gif&ct=g'> 
+
+###### Get into Crypto and Stocks #BetEverythingWinEverything
 
 ### Stay informed about Crypto: [Etoro](https://etoro.tw/3y1cWtA) | [Robinhood](#section) | [Binance](https://accounts.binance.com/en/register?ref=122687436) | [Coinbase ](https://www.coinbase.com/join/prim4t_i)
 
@@ -29,7 +31,8 @@
 <a name="fashion"></a>
 # 😎 Fashion/Accessoires for #SigmaMale 😎
 
-###### Let the betas see your superiority!
+<a > <img   height ='300px' src ='https://i.giphy.com/media/snaooFUpIpyFO/giphy.webp'> 
+###### Let the betas see your superiority! #Octillionaire grindset
 
 | #BodyArmor | #Headgear |  #SHADEs | #Womenpleaser | #SelfDEFENCE | 
 | --- |  --- | --- | --- | --- |
@@ -40,12 +43,16 @@
 
 
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
+
 <a name="social"></a>
 # 🌐 Social 🌐
 
-###### #ManipulatePeople
+<a > <img   height ='300px' src ='https://media3.giphy.com/media/6W0EVpPQN9xwQ/giphy.gif?cid=790b76119a1ec0f9458ec68dfa1b7c4ff8a08e4d9c544af0&rid=giphy.gif&ct=g'> 
+###### #Start a CULT
 
+### Socials | [Reddit](https://www.reddit.com) | [Medium](https://medium.com/) | [Hashnode](https://hashnode.com/@PRIM4T/joinme) | [Gab](https://gab.com/) | [Twitter](https://twitter.com) | [Hive](https://hive.blog/) | :pencil:
 
+### Automation | [Integromat](https://www.integromat.com) | [zapier](https://zapier.com/) | [ifttt](https://ifttt.com/) | ⚙️ 
 
 
 
@@ -53,7 +60,7 @@
 <a name="entertainment"></a>
 # Entertainment for the #chillgrind
 
-### 🍿 Ultimate Sigma  Movie-Collection 🍿 
+###### 🍿 Watch and learn 🍿 
 
 | #Sell COKE | #Sell METH | #Kill for fun | #DRUGLORD | #GANGWARS | Big Chungus | 
 | --- |  --- | --- | --- | --- |--- |
@@ -70,22 +77,6 @@
 
 
 
-<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
-## Useful Tools and links:
-
-
-- Emoji | [Emojipedia.org](https://emojipedia.org/) | [on Github](https://gist.github.com/rxaviers/7360908)| [on Dev.to](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) | :smile: :grin: :cry:
-- Icons | [Simpleicons.org](https://simpleicons.org/?q=netl) |  <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
- <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
-- Gif Libraries | [on Github](https://gifs.joelglovier.com/) | <a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> 
-- Badge | [Shield.io](https://shields.io/category/social) | [Aleen42](https://github.com/aleen42/badges) | [![Badges](https://img.shields.io/badge/Cool-Badges-1462ab.svg?)](https://shields.io) 
-- Pictures/Photos | [Pexels](https://www.pexels.com/) | [Wikipedia](https://commons.wikimedia.org/wiki/Category:Images) | [Slickr](https://slickr.vercel.app/app) |:camera:
-- Markdown Editors | [jbt](https://jbt.github.io/markdown-editor/) | [Cool](https://coolmarkdowneditor.org/) | [Upmath](https://upmath.me/) | <a> <img width ='20px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png'> </a> 
--  List of Static Site generators | [Jamstack.org](https://jamstack.org/generators/)
-- Automation | [Integromat](https://www.integromat.com) | [zapier](https://zapier.com/) | [ifttt](https://ifttt.com/) | ⚙️ 
-- Cross blog | [Dev.to](https://www.dev.to) | [Medium](https://medium.com/) | [Hashnode](https://hashnode.com/@PRIM4T/joinme) | :pencil:
-
 
 <a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
@@ -95,6 +86,6 @@
 
 ### PAY ME!
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/prim4tdotart)
-[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
+[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/dtrieb123/neuroshack/main/qrbtc.png)
 
 More from [SIGM4](https://www.youtube.com/channel/UCMhW7mC8faCqTcRKbO0c7Cw) 
