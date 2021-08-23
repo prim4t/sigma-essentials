@@ -13,7 +13,7 @@
 
 <a name="trading"></a>
 #  📈 Trading/Crypto/Finance 📈
-<a > <img height ='300px' src ='https://media3.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy.gif?cid=ecf05e47jch868qzekfc90hkg8yi0r33v1hx4221hmy62i5q&rid=giphy.gif&ct=g'> 
+<a > <img height ='300px' src ='https://i.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.webp'> 
 
 ###### Get into Crypto and Stocks #BetEverythingWinEverything
 
