@@ -13,7 +13,7 @@
 
 <a name="trading"></a>
 #  📈 Trading/Crypto/Finance 📈
-<a > <img height ='300px' src ='https://i.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.webp'> 
+<a > <img height ='300px' src ='https://i.gifer.com/7D7o.gif'> 
 
 ###### Get into Crypto and Stocks #BetEverythingWinEverything
 
@@ -59,7 +59,7 @@
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 <a name="entertainment"></a>
 # Entertainment for the #chillgrind
-
+<a > <img   height ='300px' src ='https://i.giphy.com/media/13uqSsDkBBbgg8/giphy.webp'> 
 ###### 🍿 Watch and learn 🍿 
 
 | #Sell COKE | #Sell METH | #Kill for fun | #DRUGLORD | #GANGWARS | Big Chungus | 
