@@ -82,9 +82,11 @@
 
 
 #### Quotes from Betas on [Reddit](https://www.reddit.com):
-##### 
+
 
 <a > <img   height ='80px' src ='https://i.gyazo.com/676f631bea495de42c0f19447cd58d55.png'> 
+<a > <img   height ='80px' src ='https://i.gyazo.com/885c093aef66abe1047b0697d056bf58.png'> 
+
 
 <a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
@@ -92,4 +94,4 @@
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/prim4tdotart)
 [![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/dtrieb123/neuroshack/main/qrbtc.png)
 
-More from [SIGM4](https://www.youtube.com/channel/UCMhW7mC8faCqTcRKbO0c7Cw) 
+More from [SIGM4](https://prim4t.github.io/sigma-essentials/) 
