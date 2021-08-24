@@ -59,7 +59,7 @@
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
 <a name="entertainment"></a>
 # Entertainment for the #chillgrind
-<a > <img   height ='300px' src ='https://i.giphy.com/media/13uqSsDkBBbgg8/giphy.webp'> 
+
 ###### 🍿 Watch and learn 🍿 
 
 | #Sell COKE | #Sell METH | #Kill for fun | #DRUGLORD | #GANGWARS | Big Chungus | 
@@ -81,8 +81,12 @@
 <a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
 
+#### Quotes from Betas on [Reddit](https://www.reddit.com):
+##### 
 
+<a > <img   height ='80px' src ='https://i.gyazo.com/676f631bea495de42c0f19447cd58d55.png'> 
 
+<a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
 ### PAY ME!
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/prim4tdotart)
